@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Azimuth",
-    "logo_img": "/images/black-logo-no-background.png",
+    "logo_img": "/images/profile_picture_without_slogan_cropped.png",
     "has_nav": true,
     "nav_links": [
       {
@@ -55,13 +55,7 @@
     "logo_img": "images/logo_alt.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
-    "links": [
-      {
-        "label": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "nav_title": "Company",
     "nav_links": [
       {
